@@ -1,5 +1,5 @@
 import React from 'react'
-import 'C:/Users/harshit.jadon.MD-CJDKE06555KH/Desktop/Bookstore/book-store/src/components/footer/Footer.scss';
+import './Footer.scss';
 
 export default function footer() {
     return (
