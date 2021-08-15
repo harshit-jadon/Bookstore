@@ -8,7 +8,6 @@ export default function footer() {
                 <div className='footer-div'>
                     <p> Copyright &copy; 2020. Bookstore Private Limited. All Rights Reserved</p>
                 </div>
-               
             </footer>
     
     )

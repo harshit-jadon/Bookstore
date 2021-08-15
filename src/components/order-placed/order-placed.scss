@@ -1,0 +1,26 @@
+.body-content{
+   display: flex;
+   flex-direction: column;
+   justify-content: center;
+}
+
+.successfully-content{
+    text-align: center;
+    margin: 50px;
+}
+.message{
+    position: absolute;
+    // top: 55%;
+    // left: 50%;
+    transform: translate(-50%, -50%);
+    font: normal normal bold 25px/30px Lato;
+    text-transform: capitalize;
+    opacity: 1;
+}
+.confirm-message{
+    color:#333232;
+    text-align: center;
+    font: normal normal normal 18px/22px Lato;
+    width: 17%;
+    margin-left:42%;  
+}

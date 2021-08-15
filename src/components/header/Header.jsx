@@ -2,7 +2,7 @@ import React from 'react';
 import 'C:/Users/harshit.jadon.MD-CJDKE06555KH/Desktop/Bookstore/book-store/src/components/header/Header.scss';
 import bookStoreLogo from 'C:/Users/harshit.jadon.MD-CJDKE06555KH/Desktop/Bookstore/book-store/src/assests/images/education.svg';
 import cartLogo from 'C:/Users/harshit.jadon.MD-CJDKE06555KH/Desktop/Bookstore/book-store/src/assests/images/supermarket.svg';
-import searchLogo from 'C:/Users/harshit.jadon.MD-CJDKE06555KH/Desktop/Bookstore/book-store/src/assests/images/glass+magnifying+search+icon-1320196065076020865_0.svg';
+import searchLogo from 'C:/Users/harshit.jadon.MD-CJDKE06555KH/Desktop/Bookstore/book-store/src/assests/images/ic_zoom_out_24px.svg';
 
 export default function Header() {
     return (

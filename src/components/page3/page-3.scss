@@ -1,0 +1,119 @@
+.other-div{
+    border:2px solid #DCDCDC;
+    text-align: left;
+    font: normal normal normal 15px/18px Lato;
+    letter-spacing: 0px;
+    color: #333232;
+    opacity: 1;
+    line-height: 60px;
+    margin: 40px 377px 10px 277px
+    
+}
+.my-cart{
+    font: normal normal bold 18px/22px Lato;
+    letter-spacing: 0px;
+    color: #0A0102;
+    opacity: 1;
+    margin-left: 36px;
+    margin-top: 18px;
+}
+.cart-details{
+    display: flex;
+    justify-content: start;
+    margin-top: 40px;
+    margin-left: 36px;
+}
+.book-details{
+    display: flex;
+    flex-direction: column;
+    line-height:20px;
+    text-align: left;
+    letter-spacing: 0px;
+    color: #0A0102;
+    opacity: 1;
+    margin-left:30px;
+}
+.book-title{
+    font: normal normal bold 14px/17px Lato;
+    color: #0A0102;
+    margin-bottom: 10px;
+}
+.author{
+    font: normal normal normal 10px/12px Lato;
+    color: #9D9D9D;
+    margin-bottom: 10px;
+}
+.price{
+    font: normal normal bold 15px/18px Lato;
+    color: #0A0102;
+}
+.placeButton{
+    display: flex;
+    justify-content: end;
+}
+.placed-button{
+    background: #3371B5 0% 0% no-repeat padding-box;
+    border-radius: 3px; 
+    border:none;
+    text-align: center;
+    font: normal normal medium 14px/17px Lato;
+    color: #FFFFFF;
+    text-transform: uppercase;
+    opacity: 1;
+    height: 35px;
+
+}
+.value-button {
+    display: inline-block;
+    border: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 20px;
+    text-align: center;
+    vertical-align: middle;
+    padding: 11px 0;
+    background: #eee;
+    -webkit-touch-callout: none;
+    -webkit-user-select: none;
+    -khtml-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  
+  .value-button:hover {
+    cursor: pointer;
+  }
+  
+div #decrease {
+    margin-right: -4px;
+    border-radius: 8px 0 0 8px;
+  }
+  
+  div #increase {
+    margin-left: -4px;
+    border-radius: 0 8px 8px 0;
+  }
+  
+div #input-wrap {
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  input#number {
+    text-align: center;
+    border: none;
+    border-top: 1px solid #ddd;
+    border-bottom: 1px solid #ddd;
+    margin: 0px;
+    width: 40px;
+    height: 40px;
+  }
+  
+  input[type=number]::-webkit-inner-spin-button,
+  input[type=number]::-webkit-outer-spin-button {
+      -webkit-appearance: none;
+      margin: 0;
+  }
+
+
